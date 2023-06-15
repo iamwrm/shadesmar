@@ -1,4 +1,7 @@
 ### Shadesmar
+For now the issue is https://github.com/iamwrm/shadesmar/actions/runs/5281068704/jobs/9554118596
+
+Meaning we need to resolve https://github.com/catchorg/Catch2/issues/2421
 
 Try triggering ci after forking
 
