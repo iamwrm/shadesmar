@@ -1,6 +1,6 @@
 ### Shadesmar
 
-Try triggering ci after fork
+Try triggering ci after forking
 
 ![C/C++ CI](https://github.com/Squadrick/shadesmar/workflows/C/C++%20CI/badge.svg)
 
