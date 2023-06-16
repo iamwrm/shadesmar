@@ -1,9 +1,5 @@
 ### Shadesmar
 
-Try triggering ci after forking
-
-![C/C++ CI](https://github.com/Squadrick/shadesmar/workflows/C/C++%20CI/badge.svg)
-
 An IPC library that uses the system's shared memory to pass messages. Supports
 publish-subscribe and RPC.
 
